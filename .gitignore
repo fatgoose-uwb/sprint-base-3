@@ -1,0 +1,19 @@
+# .gitignore
+# This file is optional to use. Pefectly OK to leave it as is for submission without any changes.
+#
+# The .gitignore file tells Git which files or patterns to ignore.
+# 
+# For example, you might want to ignore compiled files,
+# log files, system files, or secret configuration files
+# that shouldn't be tracked in version control.
+#
+# You are free to add whatever you like here — your teacher
+# won't put anything in it.
+#
+# (Though here's a free Git joke instead...)
+#
+# Why did Git break up with SVN?
+# Because it had too many *commits* issues.
+
+# (Yes, you can ignore this joke too.)
+
